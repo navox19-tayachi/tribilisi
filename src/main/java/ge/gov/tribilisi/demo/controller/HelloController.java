@@ -15,7 +15,7 @@ public class HelloController {
     private String gethtml () {
 
 
-        return "<html> <head><title>Home Page</title></head><body background=\"georgia.jpg\"><h2>Hello this is a springboot demo applications ! </h2><h5><p>Welcome from paris to georgia :D  </p></h2>" +
+        return "<html> <head><title>Home Page</title></head><body background=\"georgia.jpg\"><h2>Hello this a TEST  DEMO ! </h2><h5><p>Welcome from paris to georgia :D  </p></h2>" +
                 "" +
                 "" +
                 "</body></html>";
